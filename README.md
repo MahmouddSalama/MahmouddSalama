@@ -4,7 +4,7 @@
 #### Student At FCIS in CS department
 Hello I am Mahmoud Salama Mohamed, a student at the Faculty of Computers and Information, Ain Shams University (FCIS) ASU, in the third grade, CS department. I work as a mobile developer by flutter frameWork and have worked on more than 15 academic projects in the college  individual and group projects
 
-Skills: flutter / problem solving / Mathematics /teaching 
+Skills: Machine Learning flutter / problem solving / Mathematics /teaching 
 
 - 🔭 I’m currently working on FCIS 
 - 📫 How to reach me: mahmoud.salama.gado@gmail.com 
