@@ -2,7 +2,8 @@
 ![Student At FCIS in CS department](https://github.com/MahmouddSalama/MahmouddSalama/blob/main/Simply%20complicated%20(1).png)
 ###  My name is Mahmoud
 #### Student At FCIS in CS department
-Hello I am Mahmoud Salama Mohamed, a student at the Faculty of Computers and Information, Ain Shams University (FCIS) ASU, in the third grade, CS department. I work as a mobile developer by flutter frameWork and have worked on more than 15 academic projects in the college  individual and group projects
+Hello I am Mahmoud Salama Mohamed, a student at the Faculty of Computers and Information, Ain Shams University (FCIS) ASU, in the third grade, CS department. 
+I work as a mobile developer by flutter frameWork and have worked on more than 15 academic projects in the college  individual and group projects
 
 Skills: Machine Learning / flutter / problem solving / Mathematics /teaching 
 
