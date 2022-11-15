@@ -3,12 +3,12 @@
 ###  My name is Mahmoud
 #### Student At FCIS in CS department
 Welcome to my profile. I would like to welcome you. 
-My name is Mahmoud Salama Mohamed Abdel Rahman. I am a student at the faculty of computer science in ain shams university in the Department of Computer Science. I study machine learning and deep learning from the Deep learning.AI platform, and I study data science from the platform udmy from the data science 360 ​​course. I have been working as a software engineer and have been working as a freelancer in mobile development for two years. I aspire to be a ML engineer,and Data scientist
+My name is Mahmoud Salama Mohamed Abdel Rahman. I am a student at the faculty of computer science in ain shams university in the Department of Computer Science. I study machine learning and deep learning from the Deep learning.AI platform, and I study data science from the platform udmy from the data science 360 , i learning now NLP and cloud computing for machine learning ​​course. I have been working as a software engineer and have been working as a freelancer in mobile development for two years. I aspire to be a ML engineer,and Data scientist
 ,I also aspire to get training in a company in the field of ML, deep learning and data science. 
 I work as a mobile developer by flutter frameWork
 I worked as a trainer at MSP flutter commity and as a freelance developer as a flutter developer
 
-Skills: Machine Learning / Deep  Learning / flutter / problem solving / Mathematics /teaching 
+Skills: Machine Learning / Deep  Learning / flutter / problem solving / Mathematics / teaching / NLP /  
 
 - 🔭 I’m currently working on FCIS 
 - 📫 How to reach me: mahmoud.salama.gado@gmail.com 
