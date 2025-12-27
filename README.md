@@ -63,7 +63,10 @@ I don't just use AI; I build with it.
 
 ## 🐍 Contribution Snake
 ![snake gif](https://github.com/MahmouddSalama/contribution-cal-snake/blob/master/animation/snake.gif)
-
+<div align="center">
+  <img  src="https://github.com/MahmouddSalama/contribution-cal-snake/blob/master/animation/snake.gif"
+       alt="snake" />
+</div>
 ---
 
 ## 🤝 Let's Connect
