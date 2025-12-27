@@ -1,62 +1,75 @@
 # Hi there  👋🔥😍
 ![Student At FCIS in CS department](https://github.com/MahmouddSalama/MahmouddSalama/blob/main/Simply%20complicated%20(1).png)
-# 👋 Hi there, I'm Mahmoud Gado
-### Software Developer | AI & LLM Enthusiast | Educator
+# 👋 I'm Mahmoud Gado
+### 🚀 Software Architect | AI & LLM Specialist | Tech Educator
 
-I bridge the gap between robust backend systems and intuitive user experiences. My passion lies in building scalable applications and integrating cutting-edge AI to solve real-world problems.
-
----
-
-### 🚀 About Me
-- 🌍 Based in [Your Location]
-- 🧠 Currently deep-diving into **LLM Orchestration** and **Agentic Workflows**.
-- 👨‍🏫 I love **teaching**; I believe the best way to master a concept is to explain it to others.
-- ⚡ Fun fact: I enjoy breaking down complex AI architectures into simple, digestible tutorials.
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
+</p>
 
 ---
 
-### 🛠️ My Tech Stack
+## 👨‍💻 About Me
+I am a developer who loves building products from the **ground up**. Whether it's crafting a beautiful UI with **Flutter**, designing robust **Backend** systems, or orchestrating **LLMs** into intelligent agents, I strive for clean code and scalable architecture.
 
-**Mobile & Frontend**
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-
-**Backend & Core**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
-![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**AI / Machine Learning**
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-yellow)
+- 🔭 **Current Focus:** Developing Agentic RAG systems and fine-tuning Open Source LLMs.
+- 🎓 **Teaching:** I create tutorials and mentorship programs for aspiring Python and Flutter developers.
+- 💬 **Ask me about:** Python performance, Flutter state management, or LLM prompt engineering.
+- 📧 **Contact me:** [mahmoud.salama.gado@gmail.com]
 
 ---
 
-### 🤖 What I'm working on
-- **LLM Applications:** Building RAG (Retrieval-Augmented Generation) systems and fine-tuning models for niche tasks.
-- **Cross-Platform:** Creating seamless Flutter apps powered by Python backends.
-- **Open Source:** Contributing to tools that make AI more accessible to developers.
+## 🤖 AI & LLM Mastery
+I don't just use AI; I build with it.
+- **RAG Pipelines:** Expertise in LangChain, LlamaIndex, and Vector DBs (Chroma/Pinecone).
+- **Model Deployment:** Deploying LLMs using Ollama, vLLM, and HuggingFace.
+- **Agentic Workflows:** Designing autonomous agents that use tools to solve complex tasks.
 
 ---
 
-### 📊 GitHub Stats
-![Mahmoud's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahmoud-gado&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud-gado&layout=compact&theme=radical)
+## 🏫 Teaching & Mentorship
+> "To teach is to learn twice." 
+* **[Course Name/Link]** - A deep dive into Python Backend Development.
+* **[YouTube/Blog Link]** - Weekly insights on Flutter and AI integration.
+* **Open Source Education:** I maintain several "starter-kit" repos to help beginners get into AI.
 
 ---
 
-### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/your-handle)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+## 🛠️ Detailed Tech Stack
 
-- 📫 How to reach me: mahmoud.salama.gado@gmail.com 
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Mobile** | Flutter, Dart, Riverpod, Firebase |
+| **Backend** | Python, FastAPI, Flask |
+| **AI/ML** | LLMs (GPT-4, Llama 3), LangChain, HuggingFace, Scikit-learn |
+| **DevOps/Cloud** | Docker, GitHub Actions |
 
+---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MahmouddSalama)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mahmoud-salama-aa9627218/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com//profile.php?id=100027022984052)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mahmoud_salama_128//)  
+## 📊 My GitHub Journey
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MahmouddSalama&show_icons=true&theme=tokyonight&count_private=true" alt="Mahmoud's Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmouddSalama&layout=compact&theme=tokyonight" alt="Top Languages" width="42%" />
+</p>
 
-![Profile views](https://gpvc.arturio.dev/MahmouddSalama)  
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MahmouddSalama&show_icons=true&theme=dark)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahmouddSalama&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+![snake gif](https://github.com/MahmouddSalama/contribution-cal-snake/blob/master/animation/snake.gif)
+
+---
+
+## 🤝 Let's Connect
+<p align="left">
+<a href="https://www.linkedin.com/in/mahmoud-salama-aa9627218/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mahmoud Gado" height="30" width="40" /></a>
+
+<a href="https://medium.com/@your-handle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Mahmoud Gado" height="30" width="40" /></a>
+</p>
 
