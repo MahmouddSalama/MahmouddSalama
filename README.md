@@ -44,7 +44,7 @@ I don't just use AI; I build with it.
 | :--- | :--- |
 | **Mobile** | Flutter, Dart, Riverpod, Firebase |
 | **Backend** | Python, FastAPI, Flask |
-| **AI/ML** | LLMs (GPT-4, Llama 3), LangChain, HuggingFace, Scikit-learn |
+| **AI/ML** | LLMs, LangChain, HuggingFace, Scikit-learn |
 | **DevOps/Cloud** | Docker, GitHub Actions |
 
 ---
